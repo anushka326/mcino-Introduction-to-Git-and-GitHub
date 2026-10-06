@@ -6,11 +6,11 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ```
 Input:
-   Principal: principal amount
-   Time: time period in years
-   Rate: annual rate of interest (decimal)
+   Principal(p): principal amount
+   Time(t): time period in years
+   Rate(r): annual rate of interest (decimal)
 Output
-   simple interest (SI) = Principal * Time * Rate
+   simple interest (SI) = p * t * r / 100
 ```
 
 _© 2022 XYZ, Inc._
