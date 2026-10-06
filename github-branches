@@ -1,0 +1,13 @@
+$ git branch -a
+
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
+
+
+$ git branch -v
+
+  bug-fix-typo 3538c1e Fix typo in README
+* main         76083b4 Add pull request verification
